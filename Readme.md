@@ -1,3 +1,6 @@
-# Leetcode solutions
-### Contributing
-I mostly do solutions in Python, but if you would like to contribute solutions for other common languages like Java, C++ and JavaScript, please feel free to make a pull request! :)
+# Leetcode Solutions
+### The following table contains the problems with solutions:
+
+| Problem | Category | Solution | Difficulty
+| --- | --- | --- | --- |
+| [9. Palindrome Number](https://leetcode.com/problems/construct-the-rectangle/description/) | Math | [Solution](solutions/492_Construct_the_Rectangle) |
