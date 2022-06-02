@@ -6,4 +6,4 @@
 
 |   | Problem | Category | Solution | Difficulty |
 |---| ------------- | ---------- | ---------- | ---------- |
-|9| Palindrome Number | Math | [Solution](solutions/9_Panlindrome_Number.md) | Easy |
+|9| Palindrome Number | Math | [Solution](https://github.com/nnanwang/Leetcode-Notebook/tree/main/Solutions) | Easy |
