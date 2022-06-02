@@ -6,4 +6,4 @@
 
 |   | Problem | Category | Solution | Difficulty |
 |---| ------------- | ---------- | ---------- | ---------- |
-|9| Palindrome Number | Math | [Solution](solutions/9_Palindrome_Number) | Easy |
+|9| Palindrome Number | Math | [Solution](solutions/9_Panlindrome_Number.md) | Easy |
