@@ -21,6 +21,8 @@ Output: false
 *Explanation: Reads 01 from right to left. Therefore it is not a palindrome.*
 
 ## Solution :dart:
+![](https://img.shields.io/badge/language-Python-blue.svg)
+
 ```
 class Solution:
     def isPalindrome(self, x: int) -> bool:
