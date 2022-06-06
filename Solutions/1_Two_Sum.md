@@ -24,6 +24,8 @@ Output: [0,1]
 ```
 
 ## Solution :dart:
+![](https://img.shields.io/badge/language-Python-blue.svg)
+
 ```
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
