@@ -10,6 +10,7 @@
 |9| Palindrome Number | Math | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/9_Panlindrome_Number.md) | Easy |
 |13| Roman to Integer | Hash Table | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/13_Roman_to_Integer.md) | Easy |
 |14| Longest Common Prefix | - | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/14_Longest_Common_Prefix.md) | Easy |
+|20| Valid Parentheses | Stack | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/20_Valid_Parentheses.md) | Easy |
 |26| Remove Duplicates from Sorted Array | Array | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/26_Remove_Duplicates_from_Sorted_Array.md) | Easy |
 |27| Remove Element | Array | [Solution](https://github.com/nnanwang/Leetcode-Notebook/blob/main/Solutions/27_Remove_Element.md) | Easy |
 
