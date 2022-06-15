@@ -25,8 +25,8 @@ Output: false
 
 #### Constraints:
 
-```1 <= s.length <= 104```
-```s``` consists of parentheses only ```'()[]{}'```.
+- ```1 <= s.length <= 104```
+- ```s``` consists of parentheses only ```'()[]{}'```.
 # Solution :dart:
 ![](https://img.shields.io/badge/language-Python-blue.svg)
 ```
